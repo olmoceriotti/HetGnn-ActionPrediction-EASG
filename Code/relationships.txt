@@ -1,0 +1,16 @@
+against
+around
+between
+dobj
+from
+in
+inside
+into
+on
+onto
+through
+to
+towards
+under
+with
+near

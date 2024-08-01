@@ -1,0 +1,227 @@
+add
+adjust
+align
+apply
+arrange
+attach
+beat
+bend
+break
+bring
+bring out
+brush
+carry
+carry out
+carry up
+carve
+change
+check
+chop
+clean
+clean off
+cleanse
+clear
+climb
+close
+close back
+coat
+collect
+connect
+cover
+crumple
+cut
+cut off
+cut out
+detach
+dip
+dip in
+disconnect
+divide
+drag
+drill
+drive
+drop
+drop out
+drop up
+dry
+dust
+empty
+examine
+fasten
+feel
+fetch
+fill up
+fit
+fix
+fix up
+flap
+flip
+fold
+force
+glue
+go
+grab
+grasp
+grip
+hammer
+hang
+hit
+hold
+hold up
+insert
+inspect
+iron
+join
+keep
+knead
+knit
+lay
+lay down
+leave
+lift
+lift up
+loose
+loosen
+loosen out
+losse
+lower
+mark
+measure
+mix
+mount
+move
+move off
+move up
+open
+operate
+pack
+paint
+pass
+peel
+pet
+pick
+pick out
+pick up
+place
+place down
+plaster
+play
+point
+position
+pour
+pour down
+pour off
+pour out
+press
+pull
+pull out
+push
+push down
+push in
+put
+put away
+put down
+put in
+put off
+put on
+put out
+raise
+read
+release
+remove
+reposition
+rest
+return
+rinse
+roll
+roll up
+rotate
+rub
+sand
+scan
+scoop
+scoop out
+scrap
+scrape
+scratch
+screw
+screw in
+scrub
+search
+separate
+set
+sew
+shake
+shape
+shave
+shift
+shove
+shuffle
+shut
+slap
+slice
+slide
+smoothen
+soak
+spin
+split
+spray
+spread
+spread out
+spread up
+sprinkle
+squeeze
+squeeze out
+stick
+stir
+store
+straighten
+straighten out
+stretch
+sweep
+swing
+swirl
+switch
+switch off
+take
+take off
+take out
+take up
+tap
+taste
+tear off
+test
+throw
+throw away
+tie
+tight
+tighten
+tilt
+touch
+transfer
+trim
+turn
+turn off
+turn on
+turn out
+turn over
+turn up
+twist
+unfold
+unhang
+unlock
+unplug
+unscrew
+untangle
+untie
+unwrap
+uproot
+use
+wash
+water
+wear
+wet
+wipe
+wipe off
+withdraw
+wrap

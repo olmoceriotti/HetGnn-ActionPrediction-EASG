@@ -1,0 +1,483 @@
+TABLE
+adapter
+apron
+arm
+art
+artwork
+bag
+bar
+basket
+basin
+bathtub
+batter
+battery
+bed
+belt holder
+bench
+beverage
+bicycle
+bicycle wheel
+bike
+bike part
+bin
+block
+board
+bobbin
+bolt
+bolt driver
+book
+booklet
+books
+bookshelf
+both hands
+bottle
+bow
+bowl
+bowls
+box
+boxer
+brake
+brake shoe pack
+braking system
+branch
+bread
+brick
+broom
+broomstick
+brush
+bucket
+bulb
+bunch
+button
+cabbage
+cabinet
+cable
+cables
+caliper
+camera
+can
+cap
+car
+car part
+carburetor
+card
+cardboard
+carpet
+cart
+carton
+case
+casing
+ceiling
+cello
+cement
+center
+chaff
+chain
+chair
+charger
+chip
+chips
+chisel
+chocolate
+chopping
+chopping board
+clamp
+cleaner
+clip
+clips
+cloth
+clothe
+clothes
+clothing material
+compartment
+computer
+connector
+container
+control
+cooker
+cooker knob
+comb
+cord
+cot
+cover lid
+counter
+countertop
+cover
+cracker
+craft
+crochet
+crumbs
+cup
+cupboard
+cutter
+cutting board
+debris
+derailleur
+desk
+detergent
+dirt
+dish
+dishwasher
+dog
+door
+dough
+dough strip
+dough strips
+dough machine
+drawer
+dress
+drill
+driller
+drink
+driver
+drum
+dry stem
+dust
+dustbin
+dustpan
+egg
+engine
+eraser
+fabric
+fabrics
+face
+facemask
+faucet
+fence
+file
+filter
+finger
+fingers
+floor
+flour
+flower
+flower pot
+foam
+food
+fork
+frame
+frame door
+fridge
+front
+fuel
+furniture
+garbage
+gasket
+gauge
+gear
+generator
+glass
+glasses
+glove
+glue
+gouge
+grass
+grater
+grease
+grinder
+ground
+guitar
+hammer
+hand
+handle
+hanger
+heap
+himself
+hoe
+hoes
+holder
+hook
+hose
+ice
+ice cubes
+ice tray
+insulator
+iron
+iron box
+ironing board
+jack
+jacket
+jar
+jug
+keg
+key
+keyboard
+knife
+knob
+knot
+label
+ladder
+laptop
+layer
+leaf
+left hand
+leg
+lever
+lid
+lift
+light
+liquid
+liquid wash
+lock
+lubricant
+machine
+manual
+marker
+mask
+mat
+matchstick
+material
+measure
+meat
+metal
+metal board
+metallic object
+milk
+mirror
+mixer
+mixture
+mop
+mop stick
+motorbike
+motorcycle
+mouse
+mouth
+mower
+mug
+multimeter
+nail
+napkin
+needle
+net
+newspaper
+note
+nozzle
+nut
+nylon
+oil
+onion
+oven
+other
+pack
+packet
+pad
+paddle
+paint
+paint brush
+paintbrush
+palette
+pan
+pants
+paper
+papercraft
+papers
+part
+pastry
+patch
+pedal
+peel
+peeler
+pen
+pencil
+phone
+photo
+picture
+piece
+pieces
+pile
+piler
+pin
+pipe
+pizza
+plank
+plant
+planter
+plastic wraps
+plate
+plates
+platform
+platter
+plier
+pliers
+plug
+pocket
+pole
+polythene
+pot
+potato
+pottery
+pouch
+pressure hose
+pruner
+pruning sheer
+pump
+purse
+rack
+rag
+rail
+railing
+rake
+refrigerator
+remote
+right fist
+right hand
+rim
+ring
+rod
+rod metal
+roller
+room
+root
+rope
+ropes
+rubber
+ruler
+sachet
+salt
+sand
+sandpaper
+sauce
+saucer
+saw
+scaffold
+scale
+scarf
+scissors
+scoop
+scooter
+scourer
+scraper
+scrapper
+screw
+screwdriver
+scrubber
+seasoning
+seat
+seed
+sellotape
+serviette
+sewing
+shaft
+shear
+shears
+sheet
+shelf
+shelve
+shirt
+shoe
+short
+shovel
+side
+sieve
+sink
+sink faucet
+slab
+smartphone
+soap
+sock
+socket
+soil
+spade
+spanner
+spatula
+spice
+sponge
+sponge foam
+spoon
+spray
+spring
+stack
+stairs
+stand
+steel
+steel panel
+stick
+stool
+stove
+strand
+string
+structure
+sugar
+surface
+switch
+table
+table cloth
+tablet
+tag
+tank
+tap
+tape
+terminal
+thread
+tie
+timber
+timer
+tin
+tire
+tissue
+tissue paper
+tomato
+toolbox
+tools
+top
+torch
+towel
+toy
+train
+trash
+tray
+trey
+trimmer
+trolley
+trouser
+trowel
+trunk
+tub
+tube
+umbrella
+undergarment
+utensils
+vacuum
+vacuum cleaner
+valve
+vase
+vice
+vine
+waist
+wall
+wallet
+wardrobe
+wash
+washer
+washing
+washing machine
+water
+water hose
+weed
+weighing scale
+weighing machine
+wheel
+white sheet
+window
+windshield
+wipe
+wiper
+wire
+wire cutter
+wires
+wood
+woods
+wood plank
+wooden block
+wooden rail
+wooden stand
+workbench
+worktable
+worktop
+wrapper
+wrench
+X.
+yarn
+Yarn darner
+yeast
+zinc
